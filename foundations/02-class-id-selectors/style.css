@@ -1,0 +1,9 @@
+.bg-pink {
+  background-color: pink;
+}
+
+.bg-trans{
+  background-color: transparent;
+  color: blue;
+  font-size: 32px;
+}
