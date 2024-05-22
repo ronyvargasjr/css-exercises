@@ -2,13 +2,13 @@
   background-color: pink;
 }
 
-.bg-trans{
+#bg-trans{
   background-color: transparent;
   color: blue;
   font-size: 32px;
 }
 
-.bg-green{
+#bg-green{
   background-color: green;
   font-size: 26px;
 }
