@@ -3,3 +3,13 @@
   background-color: black;
   font-weight: bold;
 }
+
+.Yel {
+  background-color: yellow;
+}
+
+.Blk,
+.Yel {
+  font-size: 28px;
+  font-family: Helvetica, Times New Roman, sans-serif;
+}
